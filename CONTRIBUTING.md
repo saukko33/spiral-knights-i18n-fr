@@ -21,8 +21,8 @@ You do not need to be a member of the translation team to contribute.
 
 If you would like to become a regular collaborator and help maintain the repository, you can contact the project maintainers:
 
-- **Discord:** `saukko33` (direct message)
-- **Email:** mgouilhers@asteeriks.com
+- **Discord:** `saukko33` / `overlarde` (direct message) 
+- **Email:** mgouilhers@asteeriks.com / `overlarde.producer@gmail.com`
 
 Requests to join the team are reviewed individually. Repository write access is not required to submit contributions.
 
