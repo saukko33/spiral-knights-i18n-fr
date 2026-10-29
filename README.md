@@ -1,3 +1,66 @@
+# Spiral Knights — French Localisation
+
+**Community-driven French localisation of Spiral Knights.**
+
+This repository is a community-maintained fork of [greyhavens/spiral-knights-i18n](https://github.com/greyhavens/spiral-knights-i18n), dedicated to improving and maintaining the French localisation of *Spiral Knights*.
+
+Our goal is to provide accurate, consistent and natural French translations while preserving the original meaning, terminology and technical structure of the game's localisation files.
+
+This is an independent community translation initiative, not an official Grey Havens localisation team.
+
+## Contributing
+
+Contributions are welcome! You can report translation issues, suggest improvements or submit Pull Requests.
+
+**Each translation or coherent group of translation changes must be developed on a dedicated branch and submitted through a separate Pull Request targeting `main`.** Direct changes to `main` are not permitted.
+
+All contributions are subject to automated validation and review before being merged.
+
+If you would like to join the translation team as a regular collaborator, you can get in touch through:
+
+- **Discord:** `saukko33` / `overlarde` (direct message) 
+- **Email:** mgouilhers@asteeriks.com / `overlarde.producer@gmail.com`
+
+You do not need to be a repository collaborator to suggest a translation or submit a contribution.
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution guidelines.
+
+## Français
+
+Ce dépôt est un fork communautaire du [projet officiel de localisation de Spiral Knights](https://github.com/greyhavens/spiral-knights-i18n), consacré à l'amélioration et à la maintenance des traductions françaises du jeu.
+
+Notre objectif est de proposer des traductions fidèles, naturelles et cohérentes, tout en respectant la terminologie originale et les contraintes techniques des fichiers de localisation.
+
+### Participer aux traductions
+
+Toutes les contributions sont les bienvenues : corrections orthographiques, améliorations de formulations, traductions manquantes ou harmonisation terminologique.
+
+**Chaque traduction ou ensemble cohérent de traductions doit être effectué sur une branche dédiée et faire l'objet d'une Pull Request distincte vers `main`.**
+
+Les modifications directes sur `main` ne sont pas autorisées. Les contributions sont soumises aux contrôles automatiques et à une relecture avant leur intégration.
+
+### Rejoindre l'équipe
+
+Vous souhaitez participer régulièrement au projet et devenir collaborateur du dépôt ?
+
+Contactez les mainteneurs :
+
+- **Discord :** `saukko33` (message privé)
+- **E-mail :** mgouilhers@asteeriks.com
+
+Il n'est pas nécessaire de rejoindre l'équipe pour proposer des corrections.
+
+Les modalités détaillées sont disponibles dans [CONTRIBUTING.md](CONTRIBUTING.md).
+
+---
+
+## Original repository documentation
+
+The following documentation originates from the official Grey Havens repository and is retained for reference.
+
+---
+
+
 # spiral-knights-i18n
 Internationalization bundles for Spiral Knights
 
