@@ -18,8 +18,8 @@ All contributions are subject to automated validation and review before being me
 
 If you would like to join the translation team as a regular collaborator, you can get in touch through:
 
-- **Discord:** `saukko33` (direct message)
-- **Email:** mgouilhers@asteeriks.com
+- **Discord:** `saukko33` / `overlarde` (direct message) 
+- **Email:** mgouilhers@asteeriks.com / `overlarde.producer@gmail.com`
 
 You do not need to be a repository collaborator to suggest a translation or submit a contribution.
 
